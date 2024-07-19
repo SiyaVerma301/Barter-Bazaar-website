@@ -1,4 +1,4 @@
-This project is for a web application called Barter Bazaar, an online marketplace for buying and selling second-hand goods.
+This project is for a web application called Barter Bazaar, an online marketplace for buying  second-hand goods.
 
 website 👉: https://siyaverma301.github.io/Barter-Bazaar-website/
 
