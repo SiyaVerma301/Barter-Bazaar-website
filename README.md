@@ -1,5 +1,7 @@
 This project is for a web application called Barter Bazaar, an online marketplace for buying and selling second-hand goods.
 
+website 👉: https://siyaverma301.github.io/Barter-Bazaar-website/
+
 Tech Stack:
 
 Frontend: HTML, CSS, JavaScript
